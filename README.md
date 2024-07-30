@@ -12,16 +12,16 @@ This is a Library Management System developed using Python and the Tkinter libra
 - **Available Book Details**: View and select books from a list.
 - **Member Data Table**: Display a table with all members and their details.
 
-## Screenshot
-![Screenshot](https://github.com/user-attachments/assets/537929bd-9b40-4d67-b35f-ac8244cbf846)
-
-
 ## Requirements
 - **Python 3.x**
 - **Tkinter library**
 - **MySQL Connector**
 
-  ## Usage
+## Screenshot
+![Screenshot](https://github.com/user-attachments/assets/537929bd-9b40-4d67-b35f-ac8244cbf846)
+
+
+## Usage
 To use the app you can clone the repository to your local machine using the following command:
 ```
 https://github.com/sara-khan26/Library-Management-System.git
